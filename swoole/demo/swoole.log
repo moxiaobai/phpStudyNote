@@ -1,0 +1,218 @@
+[2015-11-30 15:11:29 #20607.0]	WARN	zm_deactivate_swoole: Fatal error: Cannot access empty property in /mnt/github/phpStudyNote/swoole/demo/tcp_server.php on line 22.
+Server Start: 2015-11-30 15:16:11
+Master Pid:20647
+Manage Pid:20648
+[2015-11-30 15:18:35 #20647.0]	NOTICE	Server is shutdown now.
+服务器关闭: 2015-11-30 15:18:35
+Server Start: 2015-11-30 15:28:02
+Master Pid:20689
+Manage Pid:20690
+[2015-11-30 15:31:00 #20689.0]	NOTICE	Server is shutdown now.
+服务器关闭: 2015-11-30 15:31:00
+Server Start: 2015-11-30 15:31:10
+Master Pid:20705
+Manage Pid:20706
+Worker Pid:20709
+Worker Pid:20710
+Worker Pid:20711
+Worker Pid:20712
+[2015-11-30 16:11:36 #20705.0]	NOTICE	Server is shutdown now.
+服务器关闭: 2015-11-30 16:11:36
+Server Start: 2015-11-30 16:11:39
+Master Pid:20792
+Manage Pid:20793
+Worker Pid:20796
+Worker Pid:20797
+Worker Pid:20798
+Worker Pid:20799
+Worker Pid:20800
+Worker Pid:20801
+Worker Pid:20802
+Worker Pid:20803
+Client: Connect.
+New AsyncTask[id=0]
+AsyncTask[0] Finish: hello
+ -> OK
+New AsyncTask[id=1]
+New AsyncTask[id=2]
+AsyncTask[2] Finish: �� -> OK
+AsyncTask[1] Finish: ���� -> OK
+[2015-11-30 16:28:21 #20792.0]	NOTICE	Server is shutdown now.
+服务器关闭: 2015-11-30 16:28:22
+Server Start: 2015-11-30 16:28:37
+Master Pid:20862
+Manage Pid:20863
+Worker Pid:20866
+Worker Pid:20867
+Worker Pid:20868
+Worker Pid:20869
+Worker Pid:20870
+Worker Pid:20871
+Worker Pid:20872
+Worker Pid:20873
+Client: Connect.
+array(1) {
+  [0] =>
+  int(1)
+}
+finish
+New AsyncTask[id=0]
+AsyncTask[0] Finish: hello
+ -> OK
+Client: Connect.
+array(2) {
+  [0] =>
+  int(1)
+  [1] =>
+  int(2)
+}
+finish
+New AsyncTask[id=0]
+AsyncTask[0] Finish: mlkom
+ -> OK
+[2015-11-30 16:38:24 #20862.0]	NOTICE	Server is shutdown now.
+服务器关闭: 2015-11-30 16:38:25
+Server Start: 2015-11-30 16:38:38
+Master Pid:20921
+Manage Pid:20922
+Worker Pid:20925
+Worker Pid:20926
+Worker Pid:20927
+Worker Pid:20928
+Worker Pid:20929
+Worker Pid:20930
+Worker Pid:20931
+Worker Pid:20932
+array(8) {
+  'server_fd' =>
+  int(31)
+  'socket_type' =>
+  int(1)
+  'server_port' =>
+  int(9501)
+  'remote_port' =>
+  int(47599)
+  'remote_ip' =>
+  string(9) "127.0.0.1"
+  'from_id' =>
+  int(0)
+  'connect_time' =>
+  int(1448872728)
+  'last_time' =>
+  int(1448872728)
+}
+array(1) {
+  [0] =>
+  int(1)
+}
+finish
+New AsyncTask[id=0]
+AsyncTask[0] Finish: hello
+ -> OK
+array(1) {
+  [0] =>
+  int(1)
+}
+finish
+New AsyncTask[id=1]
+AsyncTask[1] Finish: 
+ -> OK
+array(1) {
+  [0] =>
+  int(1)
+}
+finish
+New AsyncTask[id=2]
+AsyncTask[2] Finish: 
+ -> OK
+array(1) {
+  [0] =>
+  int(1)
+}
+finish
+New AsyncTask[id=3]
+AsyncTask[3] Finish: 
+ -> OK
+array(1) {
+  [0] =>
+  int(1)
+}
+finish
+New AsyncTask[id=4]
+AsyncTask[4] Finish: 
+ -> OK
+array(1) {
+  [0] =>
+  int(1)
+}
+finish
+New AsyncTask[id=5]
+AsyncTask[5] Finish: 
+ -> OK
+array(1) {
+  [0] =>
+  int(1)
+}
+finish
+New AsyncTask[id=6]
+AsyncTask[6] Finish: 
+ -> OK
+array(1) {
+  [0] =>
+  int(1)
+}
+finish
+New AsyncTask[id=7]
+AsyncTask[7] Finish: 
+ -> OK
+array(1) {
+  [0] =>
+  int(1)
+}
+finish
+New AsyncTask[id=8]
+AsyncTask[8] Finish: 
+ -> OK
+array(1) {
+  [0] =>
+  int(1)
+}
+finish
+New AsyncTask[id=9]
+AsyncTask[9] Finish: 
+ -> OK
+array(1) {
+  [0] =>
+  int(1)
+}
+finish
+New AsyncTask[id=10]
+AsyncTask[10] Finish: 
+ -> OK
+array(1) {
+  [0] =>
+  int(1)
+}
+finish
+New AsyncTask[id=11]
+AsyncTask[11] Finish: 
+ -> OK
+array(1) {
+  [0] =>
+  int(1)
+}
+finish
+New AsyncTask[id=12]
+AsyncTask[12] Finish: 
+ -> OK
+array(1) {
+  [0] =>
+  int(1)
+}
+finish
+New AsyncTask[id=13]
+AsyncTask[13] Finish: 
+ -> OK
+Client: Close
+[2015-12-03 10:21:56 #20921.0]	NOTICE	Server is shutdown now.
+服务器关闭: 2015-12-03 10:21:56
